@@ -14,7 +14,7 @@ ECEN 4920
 University of Nebraska, Lincoln
 Department of Electrical and Computer Engineering
 
-Artifical Neural Network steganography implementation module.
+Artificial Neural Network steganography implementation module.
 ****************************************************************
 '''
 
