@@ -14,10 +14,10 @@ the message "HELLOWORLD"
 Note that the output of this is an array of floating point values corresponding
 to the characters in the message.
 The conversion is as follows:
-A is any value in [-150,-140)
-B is any value in [-140,-130)
+A is any value in [-150,-140),
+B is any value in [-140,-130),
         .
         .
         .
-Y is any value in [90,100)
+Y is any value in [90,100), and
 Z is any value in [100,110]
