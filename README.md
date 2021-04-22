@@ -20,4 +20,4 @@ B is any value in [-140,-130),
         .
         .
 Y is any value in [90,100), and
-Z is any value in [100,110]
+Z is any value in [100,110].
