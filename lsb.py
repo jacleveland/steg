@@ -160,7 +160,7 @@ Main
 *******
 '''
 
-filename = 'reef.jpeg'         #cover file jpeg to be used
+filename = 'reef.png'         #cover file jpeg to be used
 channel = 0                    #R=0, G=1, B=2; channel used for embedding
 image = Image.open(filename)   #open image file using pillow
 data = np.asarray(image)       #store image data as numpy array
